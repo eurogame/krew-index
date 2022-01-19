@@ -1,0 +1,9 @@
+# Artifact Hub repository metadata file
+#
+#
+repositoryID: EuroGame
+owners: # (optional, used to claim repository ownership)
+  - name: info
+    email: info@eurogame.online
+  - name: content
+    email: content@eurogame.online
